@@ -4,11 +4,11 @@
 Membuat Perangkat drum dengan vanilla javascript
 
 
-Sebelum kita membuat Kalkulator, alangkah lebih baiknya, kita pahami terlebih dahulu syntaxs JavaScript.
+Sebelum kita membuat Perangkat drum, alangkah lebih baiknya, kita pahami terlebih dahulu syntaxs JavaScript.
 
 * Syntaxs JavaScript
 
-Variable adalah tempat untuk menyimpan data, dengan menyimpan data ke variable, kita bisa memangnggnakan lagi dengan menyebut nama variable nya.
+Variable adalah tempat untuk menyimpan data, dengan menyimpan data ke variable, kita bisa memangnggilkan lagi dengan menyebut nama variable nya.
 
 Contoh membuat variable
 #+BEGIN_SRC shell
